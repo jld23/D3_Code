@@ -30,7 +30,7 @@ twitter_username: geoffreycdean
 github_username:  gcdean38
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
