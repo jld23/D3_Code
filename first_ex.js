@@ -1,7 +1,7 @@
 // https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-languages
 const sample = [
     {
-      language: 'Foobar',
+      language: 'Geoffrey',
       value: 78.9,
       color: '#000000'
     },
